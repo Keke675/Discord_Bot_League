@@ -58,7 +58,7 @@ In order to make the app work you have to follow these steps :
 
 At this moment, only a French version is available :x 
 
-Use !help in your discord channel to enjoy your bot !
+Use $help in your discord channel to enjoy your bot !
 
 ![result](https://i.ibb.co/HXVWn4t/screenshot-3062.png)
 
