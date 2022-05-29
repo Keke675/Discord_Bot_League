@@ -4,8 +4,7 @@
 1. [Presentation & Introcduction](#presentation--introduction)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+4. [Usage](#usage)
 
 ## Presentation & Introduction
 
@@ -52,3 +51,15 @@ In order to make the app work you have to follow these steps :
 - Discord bot Key (lines 453) :
 
 ![discord](https://i.ibb.co/kyNdsgM/screenshot-3068.png)
+
+### 5. And that's it !
+
+## Usage
+
+At this moment, only a French version is available :x 
+
+Use !help in your discord channel to enjoy your bot !
+
+![result](https://i.ibb.co/HXVWn4t/screenshot-3062.png)
+
+
