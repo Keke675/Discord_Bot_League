@@ -52,7 +52,7 @@ In order to make the app work you have to follow these steps :
 
 ![discord](https://i.ibb.co/kyNdsgM/screenshot-3068.png)
 
-### 5. And that's it !
+### 5. Launch League_boto.py And that's it !
 
 ## Usage
 
