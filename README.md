@@ -19,4 +19,11 @@ And then i had the idea to make a discord bot who's actually going to fullfill t
 
 For that project I used **Python**. The reason of why i chose Python ? In school we used to "code" in python so I was familiarized with it. Even if JavaScript might be better in the discord bot developpement
 
-![s](https://i.ibb.co/5n6dPVg/03c249fdd3d59a28abcf6bb032c030a3cb8316de-128.jpg)
+## Installation
+
+At this moment the project isn't finished yet. Even if it is not finished, i decided to publish my work here.
+
+In order to make the app work you have to follow these steps :
+
+1. Download files in the same folder 
+![Folder](https://i.ibb.co/nzn4dp1/screenshot-3066.png)
