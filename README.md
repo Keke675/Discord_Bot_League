@@ -25,11 +25,11 @@ At this moment the project isn't finished yet. Even if it is not finished, i dec
 
 In order to make the app work you have to follow these steps :
 
-### Download files in the same folder 
+### 1. Download files in the same folder 
 
 ![Folder](https://i.ibb.co/nzn4dp1/screenshot-3066.png)
 
-### Download the following packages (I used pip): 
+### 2. Download the following packages (I used pip): 
 - **discord**
 - **nest_asyncio**
 - **riotwatcher**
@@ -37,6 +37,6 @@ In order to make the app work you have to follow these steps :
 - **requests**
 - **math**
 
-### Get your Discord bot Key and your riot API Key
+### 3. Get your Discord bot Key and your riot API Key
 
 <a href="https://discord.com/developers/docs/intro">Discord bot Key</a>
