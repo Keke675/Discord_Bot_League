@@ -19,4 +19,4 @@ And then i had the idea to make a discord bot who's actually going to fullfill t
 
 For that project I used **Python**. The reason of why i chose Python ? In school we used to "code" in python so I was familiarized with it. Even if JavaScript might be better in the discord bot developpement
 
-![alt text](http://url/to/img.png](https://i.ibb.co/5n6dPVg/03c249fdd3d59a28abcf6bb032c030a3cb8316de-128.jpg)
+![s](https://i.ibb.co/5n6dPVg/03c249fdd3d59a28abcf6bb032c030a3cb8316de-128.jpg)
