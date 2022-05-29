@@ -9,4 +9,6 @@
 
 ## Presentation & Introduction
 
-Back in 2021, I used to play at League of legends (a lot) with my friends. We were in **competition** each other, we were checking winrates, rankgs, games win (or lose) from everyone in the group (we were 8-10 at this moment).
+Back in 2021, I used to play at **League of legends** (a lot) with my friends. We were in *competition* each other, we were checking winrates, rankgs, games win (or lose) from everyone in the group (we were 8-10 at this moment). To do that we were checking the website "_op.gg_" wich gave us a lot of informations.
+
+SdsQ
