@@ -26,4 +26,5 @@ At this moment the project isn't finished yet. Even if it is not finished, i dec
 In order to make the app work you have to follow these steps :
 
 1. Download files in the same folder 
+
 ![Folder](https://i.ibb.co/nzn4dp1/screenshot-3066.png)
