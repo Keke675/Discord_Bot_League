@@ -46,9 +46,9 @@ In order to make the app work you have to follow these steps :
 ### 4. Enter your key in the python files
 
 - Riot API Key (lines 19) :
-- 
+
 ![RIOT](https://i.ibb.co/Tt4Zwwt/screenshot-3067.png)
 
 - Discord bot Key (lines 453) :
-- 
+
 ![discord](https://i.ibb.co/Tt4Zwwt/screenshot-3067.png)
