@@ -28,3 +28,15 @@ In order to make the app work you have to follow these steps :
 1. Download files in the same folder 
 
 ![Folder](https://i.ibb.co/nzn4dp1/screenshot-3066.png)
+
+2. Download the following packages (I used pip): 
+- discord
+- nest_asyncio
+- riotwatcher
+- bs4 (BeautifulSoup)
+- requests
+- math
+
+3. Get your Discord bot Key and your riot API Key
+
+<a href="https://discord.com/developers/docs/intro"></a>
