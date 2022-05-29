@@ -51,4 +51,4 @@ In order to make the app work you have to follow these steps :
 
 - Discord bot Key (lines 453) :
 
-![discord](https://i.ibb.co/Tt4Zwwt/screenshot-3067.png)
+![discord](https://i.ibb.co/kyNdsgM/screenshot-3068.png)
