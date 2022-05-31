@@ -60,6 +60,6 @@ At this moment, only a French version is available :x
 
 Use $help in your discord channel to enjoy your bot !
 
-![result](https://i.ibb.co/HXVWn4t/screenshot-3062.png)
+![result](https://www.kevin-friedrich.fr/img/projets/discord_bot_league/discord_1.png)
 
 
